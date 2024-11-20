@@ -1,0 +1,7 @@
+# apple update
+# reject
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,update.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
